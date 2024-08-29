@@ -15,5 +15,3 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 Project created in collaboration with Takao Miyamaki:
 E-mail - takao890101@gmail.com
 Want me to cover the project you've created? Send me an e-mail 👌
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
